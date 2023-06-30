@@ -1,0 +1,24 @@
+#container{
+    border: 3px solid black;
+    border-radius: 25px;
+    background-color: #222222;
+    text-align: center;
+    
+
+
+}
+.btn{
+    border: 1.5px solid;
+    border-radius: 9px;
+    background: #333333;
+    color: #FFFAFD;
+    border-color: #FFFFFF;
+    cursor: pointer;
+    width: 80px;
+    height: 30px;
+}
+#timeDisplay{
+    color: #44C239;
+    font-size: 75px;
+    font-family: consolas, monospace;
+}

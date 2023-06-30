@@ -1,0 +1,13 @@
+#game{
+    background-color: lightgray;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 70px;
+    border-radius: 12px;
+    font-family: cursive;
+    
+}
+.btns{
+    font-size: 28px;
+
+}
